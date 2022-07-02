@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="024bac3e-d525-4be9-b992-2b9b5c79c5d4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/arppl4_hibernate_demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arppl4_hibernate_demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arppl4_hibernate_demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arppl4_hibernate_demo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arppl4_hibernate_demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arppl4_hibernate_demo/src/main/java/pl/sda/arppl4/hibernate/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arppl4_hibernate_demo/src/main/java/pl/sda/arppl4/hibernate/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arppl4_hibernate_demo/src/main/java/pl/sda/arppl4/hibernate/dao/IStudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arppl4_hibernate_demo/src/main/java/pl/sda/arppl4/hibernate/dao/StudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arppl4_hibernate_demo/src/main/java/pl/sda/arppl4/hibernate/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arppl4_hibernate_demo/src/main/java/pl/sda/arppl4/hibernate/util/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arppl4_hibernate_demo/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/arppl4_hibernate_demo" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2BNTwn5FrM1VVXWoXSH3Yd8VNEk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/rgryc/IdeaProjects/arppl4_hibernate_store",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="024bac3e-d525-4be9-b992-2b9b5c79c5d4" name="Changes" comment="" />
+      <created>1656745784438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656745784438</updated>
+      <workItem from="1656745785812" duration="75000" />
+      <workItem from="1656746529824" duration="1713000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
